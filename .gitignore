@@ -1,0 +1,12 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos compilados
+*.class
+
+# Configurações pessoais de IDE
+nbproject/private/
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
